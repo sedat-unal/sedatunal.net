@@ -1,0 +1,16 @@
+[16-Oct-2020 16:31:46 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to undefined method PDOStatement::numRows() in /home/rfyalmhi/sedatunal.net/index.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/rfyalmhi/sedatunal.net/index.php on line 6
+[16-Oct-2020 16:32:01 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to undefined method PDOStatement::numRows() in /home/rfyalmhi/sedatunal.net/index.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/rfyalmhi/sedatunal.net/index.php on line 6
+[16-Oct-2020 16:32:18 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to undefined method PDOStatement::numRow() in /home/rfyalmhi/sedatunal.net/index.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/rfyalmhi/sedatunal.net/index.php on line 6
+[16-Oct-2020 17:18:03 Europe/Istanbul] PHP Notice:  Trying to get property 'yazi_baslik' of non-object in /home/rfyalmhi/sedatunal.net/sistem/fonksiyon.php on line 157
+[16-Oct-2020 17:18:03 Europe/Istanbul] PHP Notice:  Trying to get property 'yazi_resim' of non-object in /home/rfyalmhi/sedatunal.net/sistem/fonksiyon.php on line 158
+[16-Oct-2020 17:18:03 Europe/Istanbul] PHP Notice:  Trying to get property 'yazi_etiket' of non-object in /home/rfyalmhi/sedatunal.net/sistem/fonksiyon.php on line 159
+[16-Oct-2020 17:18:03 Europe/Istanbul] PHP Notice:  Trying to get property 'yazi_icerik' of non-object in /home/rfyalmhi/sedatunal.net/sistem/fonksiyon.php on line 160
