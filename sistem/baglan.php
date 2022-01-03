@@ -4,7 +4,7 @@
     $dbname = "";
     $user = "";
     $pass = "";
-    // "5.2.87.161"
+
     try{
         $db = new PDO("mysql:host=$host;dbname=$dbname;charset=utf8;", "$user", "$pass");
         $db->query("SET CHARSET SET UTF8");
