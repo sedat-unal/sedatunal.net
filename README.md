@@ -9,5 +9,5 @@ Admin panel MYSQL Connections inside the sistemyonetim folder, myOwnBlog/yonetim
 The SQL files name is blog.sql 
 If you want to build my project to your computer, check sql files and rebuild it.
 
-The link : https://www.sedatunal.net
+The link : https://www.sedatunal.tech
 
